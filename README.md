@@ -1,8 +1,7 @@
 # Decentralized-Voting-System-Using-Ethereum-Blockchain
 
 #### The Decentralized Voting System using Ethereum Blockchain is a secure and transparent solution for conducting elections. Leveraging Ethereum's blockchain technology, this system ensures tamper-proof voting records, enabling users to cast their votes remotely while maintaining anonymity and preventing fraud. Explore this innovative project for trustworthy and decentralized voting processes.
-#### For a cool demo of this project watch this [YouTube video](https://www.youtube.com/watch?v=a5CJ70D2P-E).
-#### For more details checkout [Project Report](https://github.com/mukul2345/VotingDapp-Using-Ethereum-Blockchain/blob/main/Project%20Report%20github.pdf).
+
 
 ## Features
 -  Implements JWT for secure voter authentication and authorization.
@@ -20,11 +19,10 @@
 
 ## Screenshots
 
-![Login Page](https://github.com/mukul2345/VotingDapp-Using-Ethereum-Blockchain/blob/main/public/login%20ss.png)
+![Login Page](https://github.com/mukul2345/VotingDapp/blob/main/public/admin%20ss.png)
 
-![Admin Page](https://github.com/mukul2345/VotingDapp-Using-Ethereum-Blockchain/blob/main/public/admin%20ss.png)
+![Admin Page](https://github.com/mukul2345/VotingDapp/blob/main/public/admin%20ss.png)
 
-![Voter Page](https://github.com/mukul2345/VotingDapp-Using-Ethereum-Blockchain/blob/main/public/index%20ss.png)
 
 ## Installation
 
@@ -32,7 +30,7 @@
 
 2. Clone the repository by using the command
         
-        git clone https://github.com/mukul2345/VotingDapp-Using-Ethereum-Blockchain.git
+        git clone https://github.com/mukul2345/VotingDapp.git
 
 3. Download and install [Ganache](https://trufflesuite.com/ganache/).
 
@@ -108,7 +106,7 @@
         truffle migrate
 
 You're all set! The Voting app should be up and running now at http://localhost:8080/.<br>
-For more info about usage checkout [YouTube video](https://www.youtube.com/watch?v=a5CJ70D2P-E).
+
 
 ## Code Structure
 
@@ -132,8 +130,7 @@ For more info about usage checkout [YouTube video](https://www.youtube.com/watch
         |   ├── assets                    # Project images.
         |   |   └── eth5.jpg              
         |   ├── css                       # CSS stylesheets.
-        |   |   ├── admin.css             
-        |   |   ├── index.css             
+        |   |   ├── admin.css                        
         |   |   └── login.css             
         |   ├── dist                      # Compiled JavaScript bundles.
         |   |   ├── app.bundle.js         
@@ -153,7 +150,7 @@ For more info about usage checkout [YouTube video](https://www.youtube.com/watch
 
 ## License
 
-The code in this repository is licensed under the MIT License. This means that you are free to use, modify, and distribute the code, as long as you include the original copyright and license notice. For more information about LICENSE please click [here](https://github.com/mukul2345/VotingDapp-Using-Ethereum-Blockchain/blob/main/LICENSE).
+The code in this repository is licensed under the MIT License. This means that you are free to use, modify, and distribute the code, as long as you include the original copyright and license notice. For more information about LICENSE please click [here](https://github.com/mukul2345/VotingDapp/blob/main/LICENSE).
 
 ## If you like this project, please give it a 🌟.
 ## Thank you 😊.
